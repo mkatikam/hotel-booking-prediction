@@ -1,0 +1,11 @@
+dill
+fastapi
+numpy
+pandas
+pydantic
+scikit-learn
+streamlit
+jupyter
+gdown
+joblib
+MLflow
